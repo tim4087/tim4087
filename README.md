@@ -44,10 +44,10 @@
 ###
 
 <div align="center">
-  <a href="https://vk.com/ваш_профиль" target="_blank">
+  <a href="https://vk.com/ttimofeev7" target="_blank">
     <img src="https://img.shields.io/badge/VK-%230077B5.svg?logo=VK&logoColor=white&style=for-the-badge" height="35" alt="vk logo" />
   </a>
-  <a href="https://instagram.com/ваш_профиль" target="_blank">
+  <a href="https://www.instagram.com/tim4087_?igsh=d3psN2FlZnlwMGU4" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
 </div>
